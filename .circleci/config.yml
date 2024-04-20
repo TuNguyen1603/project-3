@@ -39,7 +39,7 @@ jobs:
 
             echo " ------- login in to hub--------"
 
-            docker login -u ducvi0987@gmail.com -p $DOCKERPASS
+            docker login -u vantudn1998@gmail.com -p $DOCKERPASS
 
             echo "-------------- Pushing images to dockerhub-------"
 
